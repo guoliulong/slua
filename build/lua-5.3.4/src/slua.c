@@ -27,7 +27,7 @@
 #define MT_Q	4
 #define MT_COLOR	5
 
-#define LUA_LIB
+//#define LUA_LIB
 
 #include "lua.h"
 #include "lauxlib.h"
